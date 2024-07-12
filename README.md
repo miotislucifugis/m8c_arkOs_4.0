@@ -5,6 +5,7 @@ M8 v4.0 has some changes that cause it to not work properly with earlier vesions
 
 
 How to install:
+
 Existing Users:  If you already had M8c set up on you ArkOs device and just need to upgrade M8C to the current build for M8 4.0, all you need to do is replace your existing _m8c folder with the one here.   thats it.   
 
 New Users:  If you are installing M8C on your ArkOs device for the first time; download the entire repository, (unzip it,) and rename it to "m8" (lowercase).  Put this in your "roms" directory (or roms2 if you are using the 2nd card.) Next, enable wifi and remote access in arkos "options".   Using  "file manager" (also in "options") find the m8->setup folder and run the setup.sh script.   
