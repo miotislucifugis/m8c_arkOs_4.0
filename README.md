@@ -1,7 +1,7 @@
 M8C for ArkOs - this an updated/modified version of Metro Grade's 1M8ARK.zip that works with M8 version 4.0
 
-M8 v4.0 has some changes that cause it to not work properly with earlier vesions of laamaa's M8C and updating m8c directly on stock ArkOs can be sort of a pain.    
-original:  https://github.com/laamaa/m8c
+lamaa's M8C (https://github.com/laamaa/m8c) can be a little trick to get running on ArkOS. Fortunately discord user, Metro Grade, made a really nice and helpful zip with a prebuilt version of M8C and a bunch of useful scripts, though due to some changes in M8 v4.0, this build of M8C no longer works and needs to be updated to the newest version.   ( Updating m8c directly on stock ArkOs can be sort of a pain) 
+
 
 
 How to install:
