@@ -33,3 +33,4 @@ and then, add this bit at the end,  just before the </systemList> line  at the b
             <theme>m8</theme>
           </system>
 
+restart EmulationStation.   Afterward, M8 will be one of the gamesystem listing.
