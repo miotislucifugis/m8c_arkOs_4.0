@@ -13,13 +13,13 @@ If you would like to add M8 to emulationstation's game system listings so m8 app
 
 and then, add this bit at the end,  just before the </systemList> line  at the bottom
    
-   <system>
-    <name>m8</name>
-    <fullname>M8 Tracker</fullname>
-    <path>/roms/m8</path>
-    <extension>.sh</extension>
-    <command>%ROM%</command>
-    <platform>ignore</platform>
-    <theme>m8</theme>
-  </system>
+           <system>
+            <name>m8</name>
+            <fullname>M8 Tracker</fullname>
+            <path>/roms/m8</path>
+            <extension>.sh</extension>
+            <command>%ROM%</command>
+            <platform>ignore</platform>
+            <theme>m8</theme>
+          </system>
 
