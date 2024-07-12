@@ -2,6 +2,8 @@ M8C for ArkOs - this an updated/modified version of Metro Grade's 1M8ARK.zip tha
 
 M8 v4.0 has some changes that cause it to not work properly with earlier vesions of laamaa's M8C.   
 
+
+
 How to install:
 Existing Users:  If you already had M8c set up on you ArkOs device and just need to upgrade M8C to the current build for M8 4.0, all you need to do is replace your existing _m8c folder with the one here.   thats it.   
 
