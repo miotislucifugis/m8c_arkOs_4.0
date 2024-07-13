@@ -1,10 +1,11 @@
-M8C for ArkOs - this an updated/modified version of Metro Grade's 1M8ARK.zip that works with M8 version 4.0
+M8C for ArkOs2.0 - this an updated/modified version of Metro Grade's 1M8ARK.zip that works with M8 version 4.0
 
 lamaa's M8C (https://github.com/laamaa/m8c) can be a little trick to get running on ArkOS. Fortunately discord user, Metro Grade, made a really nice and helpful zip with a prebuilt version of M8C and a bunch of useful scripts, though due to some changes in M8 v4.0, this build of M8C no longer works (screen glitches) and needs to be updated to the newest version.   Since updating m8c directly on stock ArkOs can be sort of a pain, I thought Id update his origial work.
 
 
 
-How to install:
+  How to install:
+
 
 Existing Users:  If you already had M8c set up on you ArkOs device and just need to upgrade M8C to the current build for M8 4.0, all you need to do is replace your existing _m8c folder with the one here.   thats it.   
 
@@ -16,7 +17,10 @@ R33s & R36s users: To be able to quit m8c and return to emulation station, you m
 
 this enables quitting by pressing "L" and "select".
 
-EXTRA:
+
+  EXTRA:
+
+
 If you would like to add M8 to emulationstation's game system listings so m8 appears as its own "game system"  alongside NES, sega, etc, with all your m8c launch scripts, midi detect etc listed like game roms:    open /etc/emulationstation/es_systems.cfg  
         
         nano /etc/emulationstation/es_systems.cfg       
