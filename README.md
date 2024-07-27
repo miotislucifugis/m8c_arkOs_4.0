@@ -25,7 +25,7 @@ If you would like to add M8 to emulationstation's game system listings so m8 app
         
         nano /etc/emulationstation/es_systems.cfg       
 
-and then, add this bit at the end,  (just before the </systemList> line)
+and then, add this bit at the end,  (just before the "</systemList>" line)
    
            <system>
             <name>m8</name>
