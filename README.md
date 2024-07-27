@@ -4,12 +4,14 @@ lamaa's M8C (https://github.com/laamaa/m8c) can be a little trick to get running
 
 
 
-  How to install:
-
+## How to install:
 
 Existing Users:  If you already had M8c set up on you ArkOs device and just need to upgrade M8C to the current build for M8 4.0, all you need to do is replace your existing _m8c folder with the one here.   thats it.   
 
 New Users:  If you are installing M8C on your ArkOs device for the first time; download the entire repository, (unzip it,) and rename it to "m8" (lowercase).  Put this in your "roms" directory (or roms2 if you are using the 2nd card.) Next, enable wifi and remote access in arkos "options".   Using  "file manager" (also in "options") find the m8->setup folder and run the setup.sh script.   Reboot.  Plug in your teensy flashed w/ m8 headless and return to m8 folder (again w/ file manager) and run the m8.sh script.  M8c should launch.
+
+
+# Configure the quit button
 
 R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini.  
 
@@ -18,7 +20,7 @@ R33s & R36s users: To be able to quit m8c and return to emulation station, you m
 this enables quitting by pressing "L" and "select".
 
 
-  EXTRA:
+ ## EXTRA:
 
 
 If you would like to add M8 to emulationstation's game system listings so m8 appears as its own "game system"  alongside NES, sega, etc, with all your m8c launch scripts, midi detect etc listed like game roms:    open /etc/emulationstation/es_systems.cfg  
