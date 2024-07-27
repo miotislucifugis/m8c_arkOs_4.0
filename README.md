@@ -11,7 +11,7 @@ Existing Users:  If you already had M8c set up on you ArkOs device and just need
 New Users:  If you are installing M8C on your ArkOs device for the first time; download the entire repository, (unzip it,) and rename it to "m8" (lowercase).  Put this in your "roms" directory (or roms2 if you are using the 2nd card.) Next, enable wifi and remote access in arkos "options".   Using  "file manager" (also in "options") find the m8->setup folder and run the setup.sh script.   Reboot.  Plug in your teensy flashed w/ m8 headless and return to m8 folder (again w/ file manager) and run the m8.sh script.  M8c should launch.
 
 
-# Configure the quit button
+### Configure the quit button
 
 R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini.  
 
