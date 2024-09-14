@@ -14,7 +14,11 @@ New Users:  If you are installing M8C on your ArkOs device for the first time; d
 
 ### Configure the quit button
 
-R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini (9 = L1 on R33s) .... (or use whatever button you want.) 
+R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini (9 = L1 on R33s) .... (or use whatever button you want.) SSH into the device and run this command twice to navigate tot he root directory:
+
+                cd ..
+
+then open config.ini with nano and make the edit.  exit and save w/ control+x
 
                 nano home/ark/.local/share/m8c/config.ini
 
