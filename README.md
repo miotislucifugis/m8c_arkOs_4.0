@@ -32,7 +32,7 @@ If you would like to add M8 to emulationstation's game system listings so m8 app
 
                 cd ..
 
- open /etc/emulationstation/es_systems.cfg  
+ open /etc/emulationstation/es_systems.cfg with nano:
         
         nano /etc/emulationstation/es_systems.cfg       
 
