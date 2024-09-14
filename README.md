@@ -14,7 +14,7 @@ New Users:  If you are installing M8C on your ArkOs device for the first time; d
 
 ### Configure the quit button
 
-R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini (9 = L1 on R33s) .... (or use whatever button you want.) SSH into the device and run this command twice to navigate tot he root directory:
+R33s & R36s users: To be able to quit m8c and return to emulation station, you may need to change the "quit" button number to "9" in config.ini (9 = L1 on R33s) .... (or use whatever button you want.) SSH into the device and run this command twice to navigate to the root directory:
 
                 cd ..
 
@@ -28,7 +28,11 @@ this enables quitting by pressing "L" and "select".
  ## EXTRA:
 
 
-If you would like to add M8 to emulationstation's game system listings so m8 appears as its own "game system"  alongside NES, sega, etc, with all your m8c launch scripts, midi detect etc listed like game roms:    open /etc/emulationstation/es_systems.cfg  
+If you would like to add M8 to emulationstation's game system listings so m8 appears as its own "game system"  alongside NES, sega, etc, with all your m8c launch scripts, midi detect etc listed like game roms:   SSH into the device and run this command twice to navigate to the root directory:
+
+                cd ..
+
+ open /etc/emulationstation/es_systems.cfg  
         
         nano /etc/emulationstation/es_systems.cfg       
 
