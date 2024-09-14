@@ -48,7 +48,7 @@ and then, add this bit at the end,  just before the ```</systemList>``` line
             <theme>m8</theme>
           </system>
 
-(change the path to "roms2" if necessary.)   Restart EmulationStation.   Afterward, M8 will be one of the gamesystem listing.
+(change the path to "roms2" if necessary.)  Exit nano and save w/ control+x.     Restart EmulationStation.   Afterward, M8 will be one of the gamesystem listing.
 
 
 Thanks to laamaa for M8C - https://github.com/laamaa/m8c , Metro Grade for the original 1M8Ark.zip,  and of course, Dirtywave/ trash80 for generously creating m8 headless for us all to try out, gratis!  if you enjoy m8 headless, please buy a real m8, its worth it!   https://dirtywave.com/
