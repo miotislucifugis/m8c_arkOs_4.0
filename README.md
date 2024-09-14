@@ -18,7 +18,7 @@ R33s & R36s users: To be able to quit m8c and return to emulation station, you m
 
                 cd ..
 
-then open config.ini with nano and make the edit.  exit and save w/ control+x
+Then, open config.ini with nano and make the edit.  Exit and save w/ control+x
 
                 nano home/ark/.local/share/m8c/config.ini
 
